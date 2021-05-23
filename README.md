@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/c4pt000/FFmpeg/master/preserve-metadata-ffmpeg
 ![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/preserve-metadata-ffmpeg-from-conversion.png)
 https://raw.githubusercontent.com/c4pt000/FFmpeg/master/image-details-screenshot-machine-info-Tcamera-type-Tmodel.png
 ![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/image-details-screenshot-machine-info-Tcamera-type-Tmodel.png)
+https://raw.githubusercontent.com/c4pt000/FFmpeg/master/taken-with-camera-details-metadata-png.png
+![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/taken-with-camera-details-metadata-png.png)
 
 FFmpeg is a collection of libraries and tools to process multimedia content
 such as audio, video, subtitles and related metadata.
