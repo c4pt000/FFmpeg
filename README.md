@@ -1,6 +1,8 @@
 FFmpeg README
 =============
 
+![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/preserve-metadata-ffmpeg-from-conversion.png)
+
 FFmpeg is a collection of libraries and tools to process multimedia content
 such as audio, video, subtitles and related metadata.
 
