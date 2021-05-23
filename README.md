@@ -1,16 +1,25 @@
 FFmpeg README
 =============
+<br>
 # MISSING HERE
+<br>
 https://raw.githubusercontent.com/c4pt000/FFmpeg/master/preserve-metadata-ffmpeg-from-conversion.png
+<br>
 ![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/preserve-metadata-ffmpeg-from-conversion.png)
+<br>
 
 
 
 # SHOULD BE HERE WITH -i import conversion from EXIF DATA or file remote location metadata tag
+<br>
 https://raw.githubusercontent.com/c4pt000/FFmpeg/master/image-details-screenshot-machine-info-Tcamera-type-Tmodel.png
+<br>
 ![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/image-details-screenshot-machine-info-Tcamera-type-Tmodel.png)
+<br>
 https://raw.githubusercontent.com/c4pt000/FFmpeg/master/taken-with-camera-details-metadata-png.png
+<br>
 ![s1](https://raw.githubusercontent.com/c4pt000/FFmpeg/master/taken-with-camera-details-metadata-png.png)
+<br>
 
 FFmpeg is a collection of libraries and tools to process multimedia content
 such as audio, video, subtitles and related metadata.
